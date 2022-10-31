@@ -19,10 +19,10 @@ Hi, I am John Mark Bago-od, a passionate self-taught programmer. I specialize mo
 I value good practices and design patterns when deciding to write my code, while also focusing on performance and readability.
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
 
 #### Tools and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,postgres,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,postgres,mongodb)](https://skillicons.dev)
 
 
 #### Github Stats
