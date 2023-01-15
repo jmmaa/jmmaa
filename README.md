@@ -14,7 +14,7 @@
 
 
 
-My name's John, I mostly do frontend development but I would also like to dig in backend stuff. I love coding in general so expect me doing the most random stuff and trying new things!
+My name's John, I mostly do frontend development but I can also dig into backend stuff if I had the chance. I love programming in general so expect me trying the most random, interesting, or complex stuff!
 
 
 - 🌱 learning Typescript and Rust
