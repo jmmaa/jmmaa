@@ -25,7 +25,4 @@ I value good practices and design patterns when deciding to write my code, while
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,postgres,mongodb)](https://skillicons.dev)
 
 
-#### Github Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jmmaa&show_icons=true&icon_color=#22bbff&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jmmaa&show_icons=true&icon_color=#22bbff&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
