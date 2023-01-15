@@ -12,11 +12,13 @@
 <br>
 <br>
 
-<a href="https://visits.roshan.cyou"><img src="https://visits.roshan.cyou/rA1WfW8uk7UstT8JAyhr?label=visits&shadow=1&shadowOpacity=30&swap=0&labelBGColor=171719&countBGColor=22bbff&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 
-Hi, I am John Mark Bago-od, a passionate self-taught programmer. I specialize mostly in frontend programming but I would love to work with backend stuff if I had the chance. My passion for programming is entirely driven on the limitless amounts of things you can do with it! 
 
-I value good practices and design patterns when deciding to write my code, while also focusing on performance and readability.
+My name's John, I mostly do frontend development but I would also like to dig in backend stuff. I love coding in general so expect me doing the most random stuff and trying new things!
+
+
+- 🌱 learning Typescript and Rust
+- 💭 exploring parser construction  
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
@@ -25,4 +27,4 @@ I value good practices and design patterns when deciding to write my code, while
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,postgres,mongodb)](https://skillicons.dev)
 
 
-
+<a href="https://visits.roshan.cyou"><img src="https://visits.roshan.cyou/rA1WfW8uk7UstT8JAyhr?label=visits&shadow=1&shadowOpacity=30&swap=0&labelBGColor=171719&countBGColor=22bbff&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
