@@ -3,12 +3,14 @@
 ### Hi there!
 
 <a href="https://twitter.com/mrkkyyyy">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="john-mark-bago-od | twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/john-mark-bago-od-26439b205/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="john-mark-bago-od | linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://github.com/jmmaaa">
+  <img align="left" alt="john-mark-bago-od | github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
 <br>
 <br>
 
