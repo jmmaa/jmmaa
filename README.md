@@ -20,7 +20,7 @@ My name's John, a passionate computer science student that loves programming in 
 
 *   🌍  I'm based in Davao City, Philippines
 *   ✉️  You can contact me at [bagoodj12@gmail.com](mailto:bagoodj12@gmail.com)
-*   🚀  I'm currently working on [thesis project](http://github.com/jmmaa/coral)
+*   🚀  I'm currently working on personal projects
 *   🧠  I'm learning rust 🦀
 
 
