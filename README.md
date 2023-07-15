@@ -1,4 +1,4 @@
-![Header](./header-img.png)
+
 
 ### Hi there!
 
