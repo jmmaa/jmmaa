@@ -3,13 +3,16 @@
 ### Hi there!
 
 <a href="https://twitter.com/mrkkyyyy">
-  <img alt="Static Badge" src="https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=white&color=%231d9bf0">
+	<img alt="Static Badge" src="https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=white&color=%231d9bf0">
 </a>
 <a href="https://www.linkedin.com/in/john-mark-bago-od-26439b205/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a66c2">
+	<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a66c2">
 </a>
 <a href="https://github.com/jmmaa">
-  <img alt="Static Badge" src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&color=%23010409">
+	<img alt="Static Badge" src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&color=%23010409">
+</a>
+<a href="mailto:bagoodj12@gmail.com">
+	<img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23f6f8fc?style=for-the-badge&logo=gmail">
 </a>
 <br>
 <br>
@@ -19,7 +22,7 @@ My name's John, a passionate computer science student that loves programming in 
 
 
 *   🌍  I'm based in Davao City, Philippines
-*   ✉️  You can contact me at [bagoodj12@gmail.com](mailto:bagoodj12@gmail.com)
+*   :eyes:  I like diving around low level stuff
 *   🚀  I'm currently working on personal projects
 *   🧠  I'm learning rust 🦀
 
