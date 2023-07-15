@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/john-mark-bago-od-26439b205/">
 	<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a66c2">
 </a>
-<a href="https://github.com/jmmaa">
-	<img alt="Static Badge" src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&color=%23010409">
-</a>
 <a href="mailto:bagoodj12@gmail.com">
 	<img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23f6f8fc?style=for-the-badge&logo=gmail">
 </a>
