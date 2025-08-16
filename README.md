@@ -21,7 +21,7 @@ My name's John, a passionate computer science student that loves programming in 
 *   🌍  I'm based in Davao City, Philippines
 *   :eyes:  I like diving around low level stuff
 *   🚀  I'm currently working on personal projects
-*   🧠  I'm learning rust 🦀
+*   🧠  I'm learning useless stuff (or maybe not)
 
 
 ### Skills 
